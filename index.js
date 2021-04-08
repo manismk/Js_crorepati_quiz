@@ -88,12 +88,12 @@ function scoreUpdater(number){
 
 var questions=[{
   answers:["JavaScript is a lightweight, interpreted programming language.","JavaScript is designed for creating network-centric applications.","JavaScript is complementary to and integrated with Java.","All of the above."],
-  question:"Which of the following is correct about features of JavaScript?",
+  question:"Which of the above is correct about features of JavaScript?",
   correctAnswer:4
 },
 {
   answers:["window.print()","browser.print()","navigator.print()","document.print()"],
-  question:"Which of the following is the correct syntax to print a page using JavaScript?",
+  question:"Which of the above is the correct syntax to print a page using JavaScript?",
   correctAnswer:1
 },{
   answers:["charecterAt()","getCharAt()","charAt()","none"],
@@ -105,29 +105,29 @@ var questions=[{
   correctAnswer:2
 },{
   answers:["toString()","toBool()","valueOf()","none"],
-  question:" Which of the following function of Boolean object returns the primitive value of the Boolean object?",
+  question:" Which of the above function of Boolean object returns the primitive value of the Boolean object?",
   correctAnswer:3
 },
 {
   answers:["blad()","bold()","anchor()","blink()"],
-  question:"Which of the following function of String object creates a string to be displayed as bold as if it were in a <b> tag?",
+  question:"Which of the above function of String object creates a string to be displayed as bold as if it were in a <b> tag?",
   correctAnswer:2
 }
 ,{
   answers:["fixed()","fontsize()","sizeOf()","size()"],
-  question:"Which of the following function of String object causes a string to be displayed in the specified size as if it were in a <font size = 'size'> tag?",
+  question:"Which of the above function of String object causes a string to be displayed in the specified size as if it were in a <font size = 'size'> tag?",
   correctAnswer:2
 },{
   answers:["indexx()","size()","indexOf()","none"],
-  question:"Which of the following function of Array object returns the first (least) index of an element within the array equal to the specified value, or -1 if none is found?",
+  question:"Which of the above function of Array object returns the first (least) index of an element within the array equal to the specified value, or -1 if none is found?",
   correctAnswer:3
 },{
   answers:["slice()","remove()","shift()","none"],
-  question:"Which of the following function of Array object removes the first element from an array and returns that element?",
+  question:"Which of the above function of Array object removes the first element from an array and returns that element?",
   correctAnswer:3
 },{
   answers:["slice()","split()","removeBy()","none"],
-  question:"Which of the following function of String object splits a String object into an array of strings by separating the string into substrings?",
+  question:"Which of the above function of String object splits a String object into an array of strings by separating the string into substrings?",
   correctAnswer:2
 },{
   answers:["client","server","both","none"],
@@ -135,7 +135,7 @@ var questions=[{
   correctAnswer:3
 },{
   answers:["true","false"],
-  question:"If you type the following code in the console window, what result will you get?3 > 2 > 1 === false;",
+  question:"If you type the above code in the console window, what result will you get?3 > 2 > 1 === false;",
   correctAnswer:1
 },{
   answers:["min(x,y)","min(xy)","Math.min(x,y)","none"],
